@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @turingblocks
-- 👀 I’m interested in all things front-end, blockchain, smart contracts and web3.
+- 👋 Hi, I’m Sam, also known as @turingblocks
+- 👀 I’m interested in all things front-end, cryptography, blockchain, smart contracts and web3.
 - 📫 How to reach me ...
 
 <!---
