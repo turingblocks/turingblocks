@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Sam, also known as @turingblocks
-- 👀 I’m interested in all things front-end, cryptography, blockchain, smart contracts and web3.
-- 📫 How to reach me ...
-
-<!---
-turingblocks/turingblocks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1>👋 Hi, I'm Sam, aka @turingblocks</h1>
+- 🍑 I founded NudeClub, a decentralized NSFW content platform. Currently leading our dev's as CTO.
+- 👀 I'm interested in all things react, web3 and solidity among others.
+- 📫 Reach out to me on twitter @turingblocks
