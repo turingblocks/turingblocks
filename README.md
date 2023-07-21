@@ -2,5 +2,5 @@
 <ul>
 <li> 🍑 Founder of NudeClub, a decentralized NSFW content platform. Register now: www.nude.club </li>
 <li> 👀 I'm a freelance full-stack dev interested in all things AI, python, nextjs, reactjs, machinelearning, quantum mechanics </li>
-<li> 📫 Reach out to me on twitter @superposedtoast </li>
+<li> 📫 Reach out to me on twitter <a href="https://twitter.com/superposedtoast">@superposedtoast</a> </li>
 </ul>
