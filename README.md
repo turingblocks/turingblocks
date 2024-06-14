@@ -5,6 +5,6 @@
 <h2>Currently:</h2>
 <li> 🔨 Building </li>
 <h2>Previously:</h2>
-<li> Founder & CTO at <a href="https://www.nude.club/">NudeClub</a> (a tokengated community platform) </li>
-<li> Co-CEO at <a href="https://www.skrtskrt.world/">SkrtSkrt</a> (a gamified navigation experience) </li>
+<li>Founder & CTO at <a href="https://www.nude.club/">NudeClub</a>, a token-gated community platform.</li>
+<li>Co-CEO at <a href="https://www.skrtskrt.world/">SkrtSkrt</a>, a gamified navigation experience.</li>
 </ul>
